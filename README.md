@@ -3,7 +3,7 @@
 - 👨‍💻   Atualmente estou trabalhando com Serivce Desk, procuro uma oportunidade na área de Ciência de dados ou Análise de dados.
 - 🎓  Formado em Tecnólogo em Análise e Desenvolvimento de Sistemas,Conclusão em Março de 2019, pela FATEC - Faculdade de Tecnologia “Professor Jessen Vidal”, São José dos Campos – SP
 - 🎓  Atualmente estou aprendendo Ciências De Dados Pós-EAD pela Cruzeiro Do Sul.
-- 💻  Atualmente aprendendo  Ferramentas e Tecnologias.
+- 💻  Atualmente aprendendo estas  Ferramentas e Tecnologias.
   
 <div style="display: inline">
 <img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
